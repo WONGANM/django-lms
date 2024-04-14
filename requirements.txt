@@ -29,7 +29,7 @@ docutils==0.19
 ghp-import==2.1.0
 gopay==1.3.0
 hyperlink==21.0.0
-idna==3.4
+idna==3.7
 imagesize==1.4.1
 incremental==22.10.0
 Jinja2==3.1.2
