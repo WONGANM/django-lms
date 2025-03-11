@@ -19,7 +19,7 @@ cookiecutter==2.1.1
 cryptography==39.0.0
 daphne==4.0.0
 Deprecated==1.2.13
-Django==4.1.6
+Django==4.2.20
 django-cleanup==6.0.0
 django-crispy-forms==1.14.0
 django-environ==0.9.0
@@ -32,7 +32,7 @@ hyperlink==21.0.0
 idna==3.4
 imagesize==1.4.1
 incremental==22.10.0
-Jinja2==3.1.2
+Jinja2==3.1.6
 jinja2-time==0.2.0
 Markdown==3.3.7
 MarkupSafe==2.1.1
