@@ -19,7 +19,7 @@ cookiecutter==2.1.1
 cryptography==39.0.0
 daphne==4.0.0
 Deprecated==1.2.13
-Django==4.1.6
+Django==4.2.22
 django-cleanup==6.0.0
 django-crispy-forms==1.14.0
 django-environ==0.9.0
@@ -56,7 +56,7 @@ pytz==2022.7.1
 PyYAML==6.0
 pyyaml_env_tag==0.1
 reportlab==3.6.12
-requests==2.28.1
+requests==2.32.4
 service-identity==21.1.0
 six==1.16.0
 snowballstemmer==2.2.0
